@@ -1,0 +1,43 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm project files
+.idea/
+*.iml
+*.xml
+
+# VSCode
+.vscode/
+
+# Logs and temp
+*.log
+*.bak
+*.tmp
+*.swp
+.DS_Store
+
+# Plot outputs or generated media (optional)
+plots/
+*.png
