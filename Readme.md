@@ -70,16 +70,16 @@ Created multiple dataset versions for experimentation:
 ## 📊 Visual Results
 
 ### 🔍 Correlation Heatmap
-![Correlation](images/Figure_5.png)
+![Correlation](images/Correlation_Heatmap.png)
 
 ### 🔍 Top 10 Highly Correlated Features
-![Top 10 Corr](images/Figure_6.png)
+![Top 10 Corr](images/Highly_Correlated_Features.png)
 
 ### 📊 Model RandomForest Performance by Data Version 
-![ROC AUC by Version](images/Figure_9.png)
+![ROC AUC by Version](images/Model_RandomForest.png)
 
 ### 📊 Final Model Comparison
-![Final Model Comparison](images/Figure_10.png)
+![Final Model Comparison](images/Final_Model_Comparison.png)
 
 ---
 
