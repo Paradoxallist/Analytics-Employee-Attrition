@@ -22,9 +22,3 @@ categorical_features = data.select_dtypes(include=['object', 'bool']).columns.to
 # Визуализация корреляций
 Visualizer.plot_pearson_correlation_heatmap(data)
 Visualizer.plot_top_attrition_correlations(data)
-
-#numerical_columns = data.select_dtypes(include=['int64', 'float64']).columns.tolist()
-#numerical_columns.remove('AttritionFlag')
-
-#for feature in numerical_columns:
-#    Visualizer.plot_conditional_density_distribution(data, feature)
